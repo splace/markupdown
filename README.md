@@ -12,6 +12,7 @@ Two spaces at the end of a line
 Text attributes **_italic_** , **bold** , `monospace` .
 
 Horizontal rule:
+
 ---
 
 
