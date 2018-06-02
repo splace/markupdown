@@ -1,15 +1,15 @@
 
 
- **HEADING**
+# Heading
 
-## **Sub-Heading**
+## Sub-heading
 
 Paragraphs are separated by a blank line.
 
 Two spaces at the end of a line  
- produces a line break.
+ Produces a line break.
 
-Text attributes **_italic_** , **bold** , `monospace` .
+Text attributes **_Italic_** , **Bold** , `Monospace` .
 
 Horizontal rule:
 ---
@@ -41,4 +41,4 @@ A [link](http://example.com) .
 > 
 > 
 
-Inline <abbr> HTML </abbr> is supported.--- PASS: TestConvert (0.00s)
+Inline <abbr> HTML </abbr> Is supported.
