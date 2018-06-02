@@ -41,4 +41,4 @@ A [link](http://example.com) .
 > 
 > 
 
-Inline <abbr> HTML </abbr> Is supported.
+Inline <abbr>HTML</abbr> Is supported.
