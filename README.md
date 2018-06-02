@@ -7,9 +7,9 @@
 Paragraphs are separated by a blank line.
 
 Two spaces at the end of a line  
- Produces a line break.
+ produces a line break.
 
-Text attributes **_Italic_** , **Bold** , `Monospace` .
+Text attributes **_italic_** , **bold** , `monospace` .
 
 Horizontal rule:
 ---
@@ -41,4 +41,4 @@ A [link](http://example.com) .
 > 
 > 
 
-Inline <abbr>HTML</abbr> Is supported.
+Inline <abbr> HTML </abbr> is supported.
