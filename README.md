@@ -34,7 +34,7 @@ Numbered list:
 
 A [link](http://example.com) .
 
-![Image](Image_icon.png)
+![Image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
 > 
 >  Markdown uses email-style > characters for blockquoting.
