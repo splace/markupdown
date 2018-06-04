@@ -1,17 +1,5 @@
 <!-- <title>What HTTP Headers is my browser sending? - WhatIsMyBrowser.com</title> -->
 
-<nav> [Detect](/detect/)
-
-* [Guides](/guides/)
-
-* [Developers](/developers/)
-
-* <https://developers.whatismybrowser.com/api/>
-
-* <https://developers.whatismybrowser.com/useragents/explore/>
-
-</nav>
-
 * [span](/)
 
 * [span](/detect)
@@ -37,6 +25,14 @@ If you have any more questions, use the [contact form](/about/contact/) and we'l
 <ins> </ins>
 
 Matched Content by Google
+
+<ins> </ins>
+
+Ads by Google
+
+<ins> </ins>
+
+Ads by Google
 
 <ins> </ins>
 
