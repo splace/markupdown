@@ -41,3 +41,7 @@ This page is extracted from the Vulkan Specification. Fixes and changes should b
 |-|-|-|
 |Jill| Smith| 50|
 |Eve| Jackson| 94|
+
+|[Command Buffer Levels](#VkCommandBufferLevel)|[Render Pass Scope](#vkCmdBeginRenderPass)|[Supported Queue Types](#VkQueueFlagBits)|[Pipeline Type](#synchronization-pipeline-stages-types)|
+|-|-|-|-|
+|Primary Secondary|Both|Graphics Compute||
