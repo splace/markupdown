@@ -1,3 +1,4 @@
+
 # Heading
 
 ## Sub-heading
@@ -5,42 +6,63 @@
 Paragraphs are separated by a blank line.
 
 Two spaces at the end of a line  
- produces a line break.
+produces a line break.
 
-Text attributes **_italic_** , **bold** , `monospace` .
+Text attributes **_italic_**, **bold**, `monospace`.
 
 Horizontal rule:
-___
+
+---
 
 Bullet list:
+
 * apples
+
 * oranges
+
 * pears
 
 Numbered list:
+
 * wash
+
 * rinse
+
 * repeat
 
-A [link](http://example.com) .
+A [link](http://example.com).
 
-A [relative link](//www.example.com/about) .
+A [relative link](/about).
 
 Inline image: ![Image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
-> 
->  Markdown uses email-style > characters for blockquoting.
-> 
-> 
+    Markdown uses spaces for a preformatted block.
 
-Inline <abbr title="Hypertext Markup Language"> HTML </abbr> is supported.
+> Markdown uses email-style > characters for blockquoting.
+
+Inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported.
+
+line
+
+line
+
+line
+
+
+## Document Notes
+
+For more information, see the Vulkan Specification at URL
+
+
+<https://www.khronos.org/registry/vulkan/specs/1.1-extensions/html/vkspec.html#vkCmdBeginQuery>
 
 This page is extracted from the Vulkan Specification. Fixes and changes should be made to the Specification, not directly.
 
-|Firstname|Lastname|Age|
-|---------|--------|---|
-|Jill     |Smith   |50 |
-|Eve      |Jackson |94 |
+
+|**Firstname**|**Lastname**|**Age**|
+|-------------|------------|-------|
+|Jill         |Smith       |     50|
+|Eve          |Jackson     |   9495|
 
 |[Command Buffer Levels](#VkCommandBufferLevel)|[Render Pass Scope](#vkCmdBeginRenderPass)|[Supported Queue Types](#VkQueueFlagBits)|[Pipeline Type](#synchronization-pipeline-stages-types)|
 |-|-|-|-|
