@@ -37,10 +37,10 @@ Inline <abbr title="Hypertext Markup Language"> HTML </abbr> is supported.
 
 This page is extracted from the Vulkan Specification. Fixes and changes should be made to the Specification, not directly.
 
-|Firstname| Lastname| Age|
-|-|-|-|
-|Jill| Smith| 50|
-|Eve| Jackson| 94|
+|Firstname|Lastname|Age|
+|---------|--------|---|
+|Jill     |Smith   |50 |
+|Eve      |Jackson |94 |
 
 |[Command Buffer Levels](#VkCommandBufferLevel)|[Render Pass Scope](#vkCmdBeginRenderPass)|[Supported Queue Types](#VkQueueFlagBits)|[Pipeline Type](#synchronization-pipeline-stages-types)|
 |-|-|-|-|
