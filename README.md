@@ -49,11 +49,11 @@ line
 line
 
 
-## Document Notes [label] ##
+## Document Notes
 
 For more information, see the Vulkan Specification at URL
 
-[back to title](#label)
+[back to title](#document-notes)
 
 <https://www.khronos.org/registry/vulkan/specs/1.1-extensions/html/vkspec.html#vkCmdBeginQuery>
 
