@@ -24,11 +24,11 @@ Bullet list:
 
 Numbered list:
 
-1 wash
+0. wash
 
-1 rinse
+0. rinse
 
-1 repeat
+0. repeat
 
 A [link](http://example.com).
 
