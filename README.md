@@ -53,7 +53,7 @@ line
 
 For more information, see the Vulkan Specification at URL
 
-[back to title](#user-content-document-notes)
+[back to title](#document-notes)
 
 <https://www.khronos.org/registry/vulkan/specs/1.1-extensions/html/vkspec.html#vkCmdBeginQuery>
 
