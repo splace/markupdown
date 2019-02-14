@@ -49,7 +49,7 @@ line
 line
 
 
-## Document Notes [label]
+## Document Notes [label] ##
 
 For more information, see the Vulkan Specification at URL
 
