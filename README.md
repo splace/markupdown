@@ -1,4 +1,3 @@
-
 # Heading
 
 ## Sub-heading
@@ -8,7 +7,7 @@ Paragraphs are separated by a blank line.
 Two spaces at the end of a line  
 produces a line break.
 
-Text attributes **_italic**_, **bold**, `monospace`.
+Text attributes _italic_, **bold**, `monospace`.
 
 Horizontal rule:
 
@@ -63,3 +62,4 @@ This page is extracted from the Vulkan Specification. Fixes and changes should b
 |-------------|------------|-------|
 |     Jill    |    Smith   |   50  |
 |     Eve     |   Jackson  |   45  |
+
