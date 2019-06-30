@@ -2,6 +2,11 @@
 
 ## Sub-heading
 
+<!--
+your comment goes here
+and here
+-->
+
 Paragraphs are separated by a blank line.
 
 Two spaces at the end of a line  
