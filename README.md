@@ -68,3 +68,6 @@ This page is extracted from the Vulkan Specification. Fixes and changes should b
 |     Jill    |    Smith   |   50  |
 |     Eve     |   Jackson  |   45  |
 
+- [X] ticked
+- [ ] unticked
+
